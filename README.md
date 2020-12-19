@@ -2,7 +2,7 @@
 
 Hi, my name is Annie Ruehl. I am currently a senior at The George Washington University studying Journalism and Mass Communication.
 
-### Assignment 1
+### Assignment 1- Impeachment Data
 
 For this assignment, I organized and filtered data regarding Donald Trump's impeachment trial. 
 
