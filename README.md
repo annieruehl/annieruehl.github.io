@@ -8,7 +8,7 @@ For this assignment, I organized and filtered data regarding Donald Trump's impe
 
 You can see the assignment [here](https://annieruehl.github.io/hw1/).
 
-### Jekyll Themes
+### Assignment 2- Biden Transition Data
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annieruehl/annieruehl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
