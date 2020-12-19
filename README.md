@@ -2,29 +2,11 @@
 
 Hi, my name is Annie Ruehl. I am currently a senior at The George Washington University studying Journalism and Mass Communication.
 
-### Markdown
+### Assignment 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For this assignment, I organized and filtered data regarding Donald Trump's impeachment trial. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can see the assignment [here](https://annieruehl.github.io/hw1/).
 
 ### Jekyll Themes
 
