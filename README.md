@@ -10,7 +10,7 @@ You can see the assignment [here](https://annieruehl.github.io/hw1/).
 
 ### Assignment 2- Biden Transition Data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annieruehl/annieruehl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For this assignment, I compared the Biden's new White House staff with the previous White House staff under the Trump Administration. You can see the assignment [here](https://github.com/annieruehl/annieruehl.github.io/04_assignmentfile_markdownreport). 
 
 ### Support or Contact
 
