@@ -12,7 +12,7 @@ You can see the assignment [here](https://annieruehl.github.io/hw1/).
 
 For this assignment, I compared the Biden's new White House staff with the previous White House staff under the Trump Administration. 
 
-You can see the assignment[here](https://annieruehl.github.io/bidentransition/). 
+You can see the assignment [here](https://annieruehl.github.io/bidentransition/). 
 
 ### Dashboard Mini-Site
 
